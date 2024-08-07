@@ -40,10 +40,6 @@ I'm Deepak Singh, a passionate full-stack web developer. I enjoy building effici
 - Email: deepaksinghchauhan914@gmail.com
 - LinkedIn: www.linkedin.com/in/deepak-singh-b2b080267
 
-## 📈 GitHub Stats
-
-(https://github-readme-stats.vercel.app/api?username=DeepakSingh2003&show_icons=true&theme=radical)
-
 ## 🤝 Let's Connect!
 
 I'm always open to new opportunities and collaborations. Feel free to reach out!
