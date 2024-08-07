@@ -42,7 +42,7 @@ I'm Deepak Singh, a passionate full-stack web developer. I enjoy building effici
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=DeepakSingh2003&show_icons=true&theme=radical)
 
 ## 🤝 Let's Connect!
 
